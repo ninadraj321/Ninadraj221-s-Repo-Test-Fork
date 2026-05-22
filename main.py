@@ -10,5 +10,7 @@ def main():
 
     print("This is another new line added to the code. From main only")
 
+    print("This is another new line added to the code. From main only")
+
 if __name__ == "__main__":
     main()
